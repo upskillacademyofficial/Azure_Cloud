@@ -1,0 +1,43 @@
+How to Create Azure Free Account
+Prerequisite for Azure Free Account:
+1.	You should have a Credit Card/Debit card, an email address, and phone number.
+Azure Free Services
+Azure Free Services are designed to help individuals, startups, and small to medium-sized businesses reduce the cost of cloud computing infrastructure. These services allow you to explore and test new applications while evaluating the benefits of cloud computing with minimal financial commitment.
+When you sign up for an Azure free account, you receive $200 (or approximately €170 or 17000 INR) in credit that you can use within the first 30 days. This credit enables you to experiment with various Azure services without any upfront cost.
+In addition to this credit, Azure offers two categories of free services:
+•	Popular services free for 12 months: A selection of widely used Azure services available for free within monthly usage limits for the first year.
+•	More than 40 services free always: A set of services that remain free indefinitely, regardless of your subscription status.
+After your initial 30-day free credit expires, you will need to upgrade to a paid subscription to continue using paid services. However, the free monthly allowances for the eligible services will continue as long as you maintain your subscription. Note that service availability and offers may vary by region.
+Steps : How to Get Azure Free Subscription
+1. Go to the Azure Home Page. or azure.com or https://azure.microsoft.com/
+2. Click on Get started with Azure on the top right cornerTry azure for free
+ 
+3. Click on Try Azure for Free.
+ 
+4. Sign-in/Sign-up for a Microsoft account using an email address and password.
+ 
+5. Enter your Country/Region and Date of Birth and click next.
+6. Enter the verification code received on the email address and click next.
+7. Type the captcha you see on your screen and click on next.
+8. You’ll be redirected to the Azure Sign-up page. Enter your Region, Name, Phone number, Email address. Note: You should use the same email address for Azure sign-up and for the Microsoft account.
+9. Verify your phone number by clicking Text Me or Call Me and enter the verification code received.
+ 
+10. Enter the payment details. Make sure you have a Master Card/American Express/ Visa Credit card/Debit card and international payments should be enabled.
+ 
+11. Check the Terms and Conditions and click Sign-up.
+ 
+12. You have successfully created a Microsoft Azure free account and now have a lumpsum balance of $200.
+13. Click on Portal on the top right corner of the screen. You’ll be redirected to the Azure portal.
+14. If you have exhausted your free credit then you have to move to the Pay as you go subscription policy.
+if you have crossed the limit or time limit then you will get “your subscription is disabled and cannot perform operations  until its re-enabled”
+ 
+You can not create multiple Microsoft Azure free account or after one account expires to another account for free credit of 200$ using a single Credit card.
+Portal.azure.com
+
+Cancel your Subscription
+In this topic, you will learn how to cancel your subscription if you run out of credit.
+1.	Select your subscription from the azure portal account.
+2.	Go to subscription and click on cancel your subscriptions.
+ 
+3.Now, just confirm the subscription and click for cancellation
+
